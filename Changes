@@ -1,0 +1,6 @@
+Revision history for Perl extension GD::Image::Thumbnail.
+
+0.01  Fri Jan  7 21:37:11 2005
+	- original version; created by h2xs 1.22 with options
+		-AXc -n GD::Image::Thumbnail
+
