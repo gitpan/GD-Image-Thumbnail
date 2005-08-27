@@ -5,8 +5,7 @@ use warnings;
 use POSIX qw(ceil floor);
 use GD;
 
-our $VERSION = '0.01';
-sub VERSION { $VERSION; }
+our $VERSION = '0.02';
 
 sub GD::Image::thumbnail {
     my $gdo = shift;
